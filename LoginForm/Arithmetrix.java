@@ -4,7 +4,7 @@
 
     public static void main(String[] args) {
 
-        // A lot of bolitas (balls) inside of inmates
+        // A lot of bolitas (balls) of inmates
 
         int num1 = 5; 
         int num2 = 3;
@@ -108,3 +108,4 @@
 //         double encodedValue = encode(message, symbols);
 //         System.out.println("Encoded value for message '" + message + "': " + encodedValue);
     }
+
